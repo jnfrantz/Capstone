@@ -1,5 +1,6 @@
 # Capstone
 Code from my ECE Capstone project at Carnegie Mellon University
+
 18-500 Spring 2025
 
 This code controls a microprocessor for a digital effects pedal which uses customizable sequence patterns, pitch modulation, tempo, and delay attenuation.
