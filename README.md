@@ -10,5 +10,8 @@ Code was written in C++ for the Daisy Seed microprocessor, in collaboration with
 Schedule and hardware constraints meant that we had to be clever with some of our software. The microcontroller wasn't cooperating with importing libraries for the discrete Fourier transform, so I reprogrammed it myself with the course notes I had taken from 18-491.
 
 Functions that I worked on:
-- all functions in Pitch Shift Code section
-- 
+- [all functions in "Pitch Shift Code" section]
+- centiBelsToNumber
+- AudioCallback
+- updateDelay
+- main
